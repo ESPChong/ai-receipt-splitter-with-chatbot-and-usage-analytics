@@ -1,3 +1,5 @@
+# split_calc.py
+
 from decimal import Decimal, ROUND_HALF_UP
 
 def compute_splits(parsed: dict, participants: list, mode="even") -> dict:
