@@ -37,8 +37,8 @@ project/
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/ai-receipt-splitter.git
-cd ai-receipt-splitter
+git clone https://github.com/ESPChong/ai-receipt-splitter-with-chatbot-and-usage-analytics.git
+cd ai-receipt-splitter-with-chatbot-and-usage-analytics
 
 ### 2. Create and activate a virtual environment
 
